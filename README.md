@@ -2,4 +2,3 @@
 
 ## Adriana Velásquez
 ## Adriana Velasquez
-##Juan Valderrama

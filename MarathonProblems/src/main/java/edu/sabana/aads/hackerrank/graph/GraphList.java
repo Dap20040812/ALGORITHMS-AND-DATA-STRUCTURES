@@ -108,6 +108,11 @@ public class GraphList {
     }
 }
 
-// Dado un grafo dirigido, y dos nodos START, END diseñe un algoritmo para saber si existe una ruta entre S Y E
+// projects: a, b, c, d, e, f
+// dependencies: (a,d) (f,b) (b,d) (f,a) (d,c)
+
+// output: f, e, a, b, d, c
+
+
 
 
